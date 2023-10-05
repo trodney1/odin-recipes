@@ -1,1 +1,1 @@
-This is the description of the project. I am only testing to make sure everything is working properly.
+This project was to test my abilites to build an HTML document. I waa able to build three different recipe pages with my favorite recipes to make for my family. I went off of memory, which is why there is no quantities of ingredients. I am happy to see that despite the very simple look of each of the pages, I was able to complete them and build them from scratch.
